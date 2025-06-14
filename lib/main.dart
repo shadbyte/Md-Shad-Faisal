@@ -12,7 +12,7 @@ class PortfolioApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'MD SHAD FAISAL | Portfolio',
+      title: 'SHAD | Portfolio',
       home: PortfolioHomePage(), // ← Not using routes now
       theme: ThemeData(
         visualDensity: VisualDensity.adaptivePlatformDensity,
