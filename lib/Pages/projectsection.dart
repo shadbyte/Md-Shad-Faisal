@@ -174,7 +174,7 @@ class _ProjectCardState extends State<ProjectCard> {
                         child: Image.asset(
                           widget.project.image,
                           width: double.infinity,
-                          height: 200,
+                          height: 180,
                           fit: BoxFit.cover,
                         ),
                       ),
